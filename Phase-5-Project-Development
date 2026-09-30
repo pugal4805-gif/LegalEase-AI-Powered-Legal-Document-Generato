@@ -1,0 +1,18 @@
+Commit f034e30
+gowri1986sri-cmyk
+gowri1986sri-cmyk
+authored
+2 days ago
+Verified
+Create Phase-5-Project-Development/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── templates/
+│   ├── index.html
+│   └── result.html
+│
+└── static/
+    └── style.css

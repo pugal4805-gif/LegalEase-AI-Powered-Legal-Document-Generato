@@ -1,0 +1,23 @@
+Project Title
+LegalEaseAI – AI-Powered Legal Document Generator
+
+1. Introduction
+The project demonstration explains the working of the LegalEaseAI application.
+
+The demonstration shows the user interface, user input, AI document generation, generated result, and document download functionality.
+
+2. Demonstration Objectives
+The demonstration aims to show:
+
+How to start the application.
+How to open the LegalEaseAI home page.
+How to select a document type.
+How to enter user information.
+How to generate a legal document.
+How the generated document is displayed.
+How to download the generated document.
+3. Demo Steps
+Step 1 – Start the Application
+Run the FastAPI application using Uvicorn.
+
+uvicorn app:app --reload
